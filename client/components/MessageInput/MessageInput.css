@@ -1,0 +1,15 @@
+.message_input {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+button {
+    border: 1px solid purple;
+    width: 150px;
+    height: 50px;
+    background-color: lightcyan;
+    font-size: 2rem;
+    border-radius: 15px;
+}
